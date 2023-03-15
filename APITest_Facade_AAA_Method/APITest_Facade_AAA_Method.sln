@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APITest_Facade_AAA_Method", "APITest_Facade_AAA_Method\APITest_Facade_AAA_Method.csproj", "{DF7FF80D-1D01-4834-B332-3C2BDAFD4BA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF7FF80D-1D01-4834-B332-3C2BDAFD4BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7FF80D-1D01-4834-B332-3C2BDAFD4BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7FF80D-1D01-4834-B332-3C2BDAFD4BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7FF80D-1D01-4834-B332-3C2BDAFD4BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A5364C6-A9F6-4A4B-A800-B81ED33655A4}
+	EndGlobalSection
+EndGlobal
